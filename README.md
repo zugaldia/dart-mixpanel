@@ -2,7 +2,7 @@
 
 A Dart wrapper around the Mixpanel JS API.
 
-Note: This is package is not officially provided by Mixpanel.
+Note: This package is not officially provided by Mixpanel.
 However it does rely on the official Mixpanel JS library.
 
 ## Install
@@ -68,13 +68,6 @@ You can file issues at https://github.com/silicalabs/dart-mixpanel/issues.
 * Antonio Zugaldia <antonio@silicalabs.com>
 * You?
 
-## TODO
-
-* Connect with drone.io.
-* Generate API docs.
-* Improve testing -- not limited to checking the API.
-* Move this TODO section to issues.
-
 ## License
 
-See LICENSE.md
+See [LICENSE](https://github.com/silicalabs/dart-mixpanel/blob/master/LICENSE)
