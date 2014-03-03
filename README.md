@@ -36,7 +36,7 @@ main() {
 }
 ```
 
-See the `example` directory for a minimal Dart program.
+See the [example](https://github.com/silicalabs/dart-mixpanel/tree/master/example) directory for a minimal Dart program.
 
 ## API
 
