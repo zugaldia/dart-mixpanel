@@ -1,4 +1,10 @@
+# Default Dart
 .DS_Store
 packages
 .project
 pubspec.lock
+
+# Package custom
+mixpanel.sublime-project
+mixpanel.sublime-workspace
+mixpanel.token
