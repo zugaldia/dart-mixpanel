@@ -1,9 +1,9 @@
 name: mixpanel
 version: 1.0.0
-author: Antonio Zugaldia
+author: Antonio Zugaldia <antonio@silicalabs.com>
 description: A wrapper around the official Mixpanel JS API.
 homepage: https://github.com/silicalabs/dart-mixpanel
 dependencies:
-  browser: any
+  browser: '>=0.10.0'
 dev_dependencies:
   unittest: any
