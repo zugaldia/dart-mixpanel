@@ -65,7 +65,7 @@ You can file issues at https://github.com/silicalabs/dart-mixpanel/issues.
 
 ## Authors
 
-* Antonio Zugaldia <antonio@silicalabs.com>
+* Antonio Zugaldia (antonio@silicalabs.com)
 * You?
 
 ## License
