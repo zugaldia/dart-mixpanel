@@ -36,7 +36,7 @@ main() {
 }
 ```
 
-See the [example](https://github.com/silicalabs/dart-mixpanel/tree/master/example) directory for a minimal Dart program.
+See the [example](https://github.com/zugaldia/dart-mixpanel/tree/master/example) directory for a minimal Dart program.
 
 ## API
 
@@ -61,13 +61,13 @@ for further details on each method.
 
 ## Support
 
-You can file issues at https://github.com/silicalabs/dart-mixpanel/issues.
+You can file issues at https://github.com/zugaldia/dart-mixpanel/issues.
 
 ## Authors
 
-* Antonio Zugaldia (antonio@silicalabs.com)
+* Antonio Zugaldia (antonio@zugaldia.net)
 * You?
 
 ## License
 
-See [LICENSE](https://github.com/silicalabs/dart-mixpanel/blob/master/LICENSE)
+See [LICENSE](https://github.com/zugaldia/dart-mixpanel/blob/master/LICENSE)
