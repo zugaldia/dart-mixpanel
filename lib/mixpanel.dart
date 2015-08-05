@@ -32,6 +32,9 @@ class Mixpanel extends MixpanelAPI {
   void track(String event_name, {Map properties, Function callback}) {
     JsObject jsProperties =
         (properties == null ? null : new JsObject.jsify(properties));
+    if(callback == null) {
+        callback = (a,b) {};
+    }
     _mixpanel.callMethod('track', [event_name, jsProperties, callback]);
   }
 
